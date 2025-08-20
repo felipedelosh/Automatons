@@ -5,7 +5,7 @@ FelipedelosH
 Formal Language + My First Automaton
 """
 class Automaton:
-    def __init__(self, states, alphabet, transitions, q0, F):
+    def __init__(self, states, transitions, alphabet, q0, F):
         self.states = states
         self.alphabet = alphabet
         self.transitions = transitions
@@ -44,7 +44,7 @@ _transitions = _transitions + [
 ]
 _q0 = "q0"
 _F = ["q1"]
-a = Automaton(_states, _alphabet, _transitions, _q0, _F)
+a = Automaton(_states, _transitions, _alphabet, _q0, _F)
 
 _chain0 = "andrés"
 _chain1 = "michell"
