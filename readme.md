@@ -4,9 +4,21 @@
 
 ![Banner](Docs/banner.png)
 <br>
-:construction: Status of project :construction:
+:construction: IN CONSTRUCTION :construction:
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Automata Theory
+
+This repository contains learning materials and code implementations for various automata types and formal language concepts. It serves as a personal study guide and codebase for exploring theoretical computer science fundamentals.
+
+## Purpose
+
+- Learn and implement different types of automata (DFA, NFA, Turing Machines, etc.)
+- Understand formal languages and the Chomsky hierarchy
+- Practice with automata operations and transformations
+- Build foundational knowledge for developing intelligent systems, NPCs, and chatbots
+
+The repository includes theoretical notes in PDF format and Python implementations of automata concepts.
 
 ## :hammer:Funtions:
 
