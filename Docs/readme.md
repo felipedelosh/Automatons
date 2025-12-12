@@ -1,5 +1,5 @@
 0.0 Introducción (Lenguajes formales).
-0.1 Introducción (teoria de conjuntos).
+0.1 Introducción (teoría de conjuntos).
 0.2 Introducción (Operaciones).
 0.3 Introducción (Expresiones regulares).
 1.0 Autómata finito determinista (AFD / DFA).
