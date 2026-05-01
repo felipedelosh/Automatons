@@ -5,8 +5,8 @@
 1.0 Autómata finito determinista (AFD / DFA).
 2.0 Autómata finito no deternimista (AFN / NFA).
 3.0 Autómatas con e-transiciones (eNFA).
-3.1 Autómatas celulares (AC)
-3.2 Autómata probabilístico (PFA)
+3.1 Autómatas celulares (AC).
+3.2 Autómata probabilístico (PFA).
 3.3 Máquina de Moore.
 3.4 Máquina de Mealy.
 4.0 Expresiones regulares y su relación con los autómatas.
